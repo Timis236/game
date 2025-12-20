@@ -1,1 +1,2 @@
-# game
+# Overview
+A simple python 2D platforming game with no real purpose or objective. The game is made up of a flat terrain with randomly placed tiles, where left clicks and right clicks can place/destroy tiles. Aside from WASD + Space for basic movement, your character is also able to perform walljumps by jumping against a wall or hang from a ceiling by holding W on contact with one. Debug info is displayed in the top left corner.
